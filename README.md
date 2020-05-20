@@ -1,6 +1,6 @@
 # Gomio
 
-Gomio Arduino için geliştirilmiş Mehmet Güverdik'in geliştirdiği USCO 01 protokolünü temel alan giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz gömülü sistem yazılımıdır.
+Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz gömülü sistem yazılımıdır. Mehmet Güverdik'in geliştirdiği USCO 01 yerli gömülü sistem protokolünü temel alır. 
 
 ### Gomio'nun Seyir Defteri
 
