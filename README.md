@@ -6,7 +6,7 @@ gömülü sistem yazılımıdır.
 ### Nasıl Kullanırım?
 #### Gömülü sistemi Arduinoya yükleme
 * Arduino kartınızı bilgisayarınıza bağlayınız.
-* Aygıt yöneticisinden arduinonuzun hangi seriporta bağlı olduğunu öğreniniz.
+* Aygıt yöneticisinden arduinonuzun hangi comporta bağlı olduğunu öğreniniz.
 * Port bilgisini kenara kaydediniz.
 * Kartınıza uygun Hex dosyasını indiriniz.
 * Xloader indiriniz. http://www.hobbytronics.co.uk/download/XLoader.zip
@@ -26,10 +26,12 @@ gömülü sistem yazılımıdır.
 * Aşağıdan Open butonuna basınız.
 * Gömülü sistem komutları karşınızda.
 
-### ChangeLog
+### Gomionun seyir defteri
 
 #### v.1.0.0
-* First public release.
+* İlk genel yayınlanma
+#### v.0.9.0
+* İlk özel kullanım
 
 
 # Gömülü sistem komutları 
