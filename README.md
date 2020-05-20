@@ -10,7 +10,6 @@ Ekranda gömülü sistemin işlettiği komutlar görüntülenecektir.
 Komutlardan herhangi birini işletmek için komutu yazıp ENTER butonun basarsanız komut işletilecektir.
 Herkese kolaylıklar dilerim.
 
-
 help-------->:GOMULU SISTEM DOSYALARINI LISTELER. Ornek: help
 
 do---------->: DIJITAL OUTPUT KOMUTU. Ornek: do 00 1 (00-44)
