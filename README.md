@@ -3,6 +3,13 @@
 Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz
 gömülü sistem yazılımıdır.
 
+### Gomionun Seyir Defteri
+
+#### v.1.0.0
+* İlk genel yayınlama
+#### v.0.9.0
+* İlk kişisel kullanım
+
 ### Nasıl Kullanırım?
 #### Gömülü sistemi Arduinoya yükleme
 * Arduino kartınızı bilgisayarınıza bağlayınız.
@@ -25,13 +32,12 @@ gömülü sistem yazılımıdır.
 * "Speed" kısmına gömülü sistemimizin iletişim hızı olan 115200 giriniz.
 * Aşağıdan Open butonuna basınız.
 * Gömülü sistem komutları karşınızda.
-
-### Gomionun seyir defteri
-
-#### v.1.0.0
-* İlk genel yayınlanma
-#### v.0.9.0
-* İlk kişisel kullanım
+#### Gömülü sistemin ilk kullanımı
+* Putty arayüzünde gömülü sistem komutları görüntülenecektir.
+* Gomio proje dosyaları altından kartınıza uygun pin haritasını indiriniz.
+* Pin haritasına göre projenize uygun bağlantıyı yapınız.
+* İstenen komut klavyeden yazılıp "enter" tuşuna basıldığında komut işletilir.
+* <b>Örneğin:</b> do 00 1 işletilecek olsun do: dijital out kısaltılmışıdır. 00 ise pin numarasıdır. 1 yada 0 yaparak bu pini aç kapa yapabiliriz. Pin haritasından bakarsak do 00 ın tüm kartlar için arduinoun 7.pini olduğu göörülür. Uygulama bağlantısı buna göre yapılmalıdır.
 
 
 # Gömülü sistem komutları 
