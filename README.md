@@ -3,7 +3,7 @@
 Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz
 gömülü sistem yazılımıdır.
 
-### Gomionun Seyir Defteri
+### Gomio'nun Seyir Defteri
 
 #### v.1.0.0
 * İlk genel yayınlama
