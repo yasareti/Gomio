@@ -31,7 +31,7 @@ gömülü sistem yazılımıdır.
 #### v.1.0.0
 * İlk genel yayınlanma
 #### v.0.9.0
-* İlk özel kullanım
+* İlk kişisel kullanım
 
 
 # Gömülü sistem komutları 
