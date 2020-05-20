@@ -40,8 +40,8 @@ gömülü sistem yazılımıdır.
 * <b>Örneğin:</b> do 00 1 işletilecek olsun do: dijital out kısaltılmışıdır. 00 ise pin numarasıdır. 1 yada 0 yaparak bu pini aç kapa yapabiliriz. Pin haritasından bakarsak do 00 ın tüm kartlar için arduinoun 7.pini olduğu görülür. Uygulama bağlantısı pin haritalarına göre yapılmalıdır.
 #### Gömülü sistemin görsel arayüz programları ile kullanımı
 * Gömülü sistem komutları arduino ile seri iletişim bağlantısı kurabilen tüm arayüzlerle çalışır. 
-* Fiziksel dünyadan sensörler aracılığıya ölçülen tüm bilgiyi bu arayüzlerde gösterbiliriz.
-* Görsel arayüz programını kodlarken seri gömülü sistem komutlarından birisini gönderdiğimiz zaman arkasından mutlaka
+* Fiziksel dünyadan sensörler aracılığıya ölçülen tüm bilgiyi bu arayüzlerde gösterebiliriz.
+* Görsel arayüz programını kodlarken seri porttan gömülü sistem komutlarından birisini gönderdiğimiz zaman arkasından mutlaka
 enter tuşuna basma işlemini de göndermeliyiz.
 <b>Örneğin:</b> Görsel arayüz yazılımınızdan bir butona basıldığında gömülü sisteme "do 03 1" bilgisini göndermek ve işletmek istiyorsak.
 <b>C#</b> serialPort.Write("do 03 1" + "\n \r"); sonuna mutlaka <b>"\n \r"</b> eklenmelidir.
