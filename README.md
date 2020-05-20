@@ -9,7 +9,8 @@ Başarılı bir bağlantıdan sonra sizi seri monütörde aşağıdaki bilgileri
 Ekranda gömülü sistemin işlettiği komutlar görüntülenecektir.
 Komutlardan herhangi birini işletmek için komutu yazıp ENTER butonun basarsanız komut işletilecektir.
 Herkese kolaylıklar dilerim.
-/*   -------------------------------------------         */
+
+
 -------------------------------------------
 ..:: ARDUINO MEGA CONTROL CARD - GOMIO ::..
       CARD:MEGA  ID:000000   VER:1.0.0
