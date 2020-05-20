@@ -18,14 +18,14 @@ Herkese kolaylıklar dilerim.
 -------------------------------------------
 GOMIO 01 GOMULU SISTEM KOMUTLARI (USCO 01 PROTOKOLU)
 -----------------------------------------------------------
-help        : GOMULU SISTEM DOSYALARINI LISTELER. Ornek: help
-do          : DIJITAL OUTPUT KOMUTU. Ornek: do 00 1 (00-44)
-do_durum    : DIJITAL OUTPUT DURUM BILGISI
-aidi        : ANALOG VE DIGITAL GIRIS VE DIGITAL CIKIS BILGISI. Ornek: aidi 1/0
-pwm         : PWM KOMUTU. Ornek: pwm 00 10000 1 (00-02)
-cls         : TERMINAL EKRANI TEMIZLE Ornek: cls
-reset       : YAZILIMSAL RESET BUTONUNA BASILIR. Ornek: reset
-ver         : VERSIYON ve ID BILGISINI VERIR. Ornek: ver
-bip         : 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR. Ornek: bip 1 (1-6)
-beep        : KARTIN HOPARLORUNU KONTROL EDER. Ornek: beep on, beep off
+help-------->:GOMULU SISTEM DOSYALARINI LISTELER. Ornek: help
+do---------->: DIJITAL OUTPUT KOMUTU. Ornek: do 00 1 (00-44)
+do_durum---->: DIJITAL OUTPUT DURUM BILGISI
+aidi-------->: ANALOG VE DIGITAL GIRIS VE DIGITAL CIKIS BILGISI. Ornek: aidi 1/0
+pwm--------->: PWM KOMUTU. Ornek: pwm 00 10000 1 (00-02)
+cls--------->: TERMINAL EKRANI TEMIZLE Ornek: cls
+reset------->: YAZILIMSAL RESET BUTONUNA BASILIR. Ornek: reset
+ver--------->: VERSIYON ve ID BILGISINI VERIR. Ornek: ver
+bip--------->: 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR. Ornek: bip 1 (1-6)
+beep-------->: KARTIN HOPARLORUNU KONTROL EDER. Ornek: beep on, beep off
 -----------------------------------------------------------
