@@ -3,12 +3,34 @@
 Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz
 gömülü sistem yazılımıdır.
 
-İndirdiğiniz "hex" dosyasını arduinoya yükledikten sonra herhangi bir "SerialMonitor" yazılımı ile arduinonuzla iletişime geçeilirsiniz.
-Arduinonun hangi seri porta bağlı olduğunu aygıt yöneticisinden öğrenebilrisiniz. İletişim hızı olarak 115200 (Baudrate) belirlenmiştir.
-Başarılı bir bağlantıdan sonra sizi seri monütörde aşağıdaki bilgileri içeren bir ekran karşılayacaktır.
-Ekranda gömülü sistemin işlettiği komutlar görüntülenecektir.
-Komutlardan herhangi birini işletmek için komutu yazıp ENTER butonun basarsanız komut işletilecektir.
-Herkese kolaylıklar dilerim.
+### Nasıl Kullanırım?
+#### Gömülü sistemi Arduinoya yükleme
+* Arduino kartınızı bilgisayarınıza bağlayınız.
+* Aygıt yöneticisinden arduinonuzun hangi seriporta bağlı olduğunu öğreniniz.
+* Port bilgisini kenara kaydediniz.
+* Kartınıza uygun Hex dosyasını indiriniz.
+* Xloader indiriniz. http://www.hobbytronics.co.uk/download/XLoader.zip
+* Xloader rarı açınız ve Xloader.exe'yi çalıştırınız.
+* Xloader arayüzünden "Com port" kısmına kenara kaydettiğimiz arduino port bilgisini giriniz.
+* "Device" bölümünden kartınızın modelini seçiniz.
+* "Hex file" bölümünden indirdiğimiz hex dosyasının yolunu bulunuz ve aç deyiniz.
+* Yükleme bittiğinde Xloader arayüzünün en altında yükleme bitti bilgisini göreceksiniz. 
+* Yükleme başarılı.
+#### Gömülü sistemle iletişim
+* Putty indiriniz. https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+* Putty'i bilgisayarınıza kurunuz.
+* Putty çalıştırınız.
+* Putty arayüzünden Serial radyo butonuna tıklayınız.
+* "Serial line" kısmına arduinonuzun bağlı olduğu comport bilgisini giriniz.
+* "Speed" kısmına gömülü sistemimizin iletişim hızı olan 115200 giriniz.
+* Aşağıdan Open butonuna basınız.
+* Gömülü sistem komutları karşınızda.
+
+### ChangeLog
+
+#### v.1.0.0
+* First public release.
+
 
 # Gömülü sistem komutları 
 
