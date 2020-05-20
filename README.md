@@ -29,7 +29,7 @@ gömülü sistem yazılımıdır.
 * Putty çalıştırınız.
 * Putty arayüzünden Serial radyo butonuna tıklayınız.
 * "Serial line" kısmına arduinonuzun bağlı olduğu comport bilgisini giriniz.
-* "Speed" kısmına gömülü sistemimizin iletişim hızı olan 115200 giriniz.
+* "Speed" kısmına gömülü sistemimizin iletişim hızı olan 115200 giriniz. Bir sonraki adıma geçmeden önce bu bağlantıya isim verip Putty'e kaydedebilirsiniz. Bu sizi bilgileri tekraren girmekten kurtarır.
 * Aşağıdan Open butonuna basınız.
 * Gömülü sistem komutları karşınızda.
 #### Gömülü sistemin ilk kullanımı
