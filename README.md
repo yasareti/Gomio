@@ -37,7 +37,7 @@ gömülü sistem yazılımıdır.
 * Gomio proje dosyaları altından kartınıza uygun pin haritasını indiriniz.
 * Pin haritasına göre projenize uygun bağlantıyı yapınız.
 * İstenen komut klavyeden yazılıp "enter" tuşuna basıldığında komut işletilir.
-* <b>Örneğin:</b> do 00 1 işletilecek olsun do: dijital out kısaltılmışıdır. 00 ise pin numarasıdır. 1 yada 0 yaparak bu pini aç kapa yapabiliriz. Pin haritasından bakarsak do 00 ın tüm kartlar için arduinoun 7.pini olduğu göörülür. Uygulama bağlantısı buna göre yapılmalıdır.
+* <b>Örneğin:</b> do 00 1 işletilecek olsun do: dijital out kısaltılmışıdır. 00 ise pin numarasıdır. 1 yada 0 yaparak bu pini aç kapa yapabiliriz. Pin haritasından bakarsak do 00 ın tüm kartlar için arduinoun 7.pini olduğu görülür. Uygulama bağlantısı pin haritalarına göre yapılmalıdır.
 
 
 # Gömülü sistem komutları 
