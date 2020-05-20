@@ -10,12 +10,13 @@ Ekranda gömülü sistemin işlettiği komutlar görüntülenecektir.
 Komutlardan herhangi birini işletmek için komutu yazıp ENTER butonun basarsanız komut işletilecektir.
 Herkese kolaylıklar dilerim.
 
+# Gömülü sistem komutları 
 
 Komut|Açıklama|Örnek
-:----|:--------------------------:|:-----------------:|
+:------|:-------------------------------|:----------------------|
 help|GOMULU SISTEM DOSYALARINI LISTELER| help
 do| DIJITAL OUTPUT KOMUTU|do 00 1 (00-44)
-do_durum|DIJITAL OUTPUT DURUM BILGISI
+do_durum|DIJITAL OUTPUT DURUM BILGISI|do_durum
 aidi|ANALOG VE DIGITAL GIRIS VE DIGITAL CIKIS BILGISI|aidi 1/0
 pwm| PWM KOMUTU|pwm 00 10000 1 (00-02)
 cls| TERMINAL EKRANI TEMIZLE|cls
