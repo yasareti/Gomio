@@ -10,23 +10,17 @@ Ekranda gömülü sistemin işlettiği komutlar görüntülenecektir.
 Komutlardan herhangi birini işletmek için komutu yazıp ENTER butonun basarsanız komut işletilecektir.
 Herkese kolaylıklar dilerim.
 
-help-------->:GOMULU SISTEM DOSYALARINI LISTELER. Ornek: help
 
-do---------->: DIJITAL OUTPUT KOMUTU. Ornek: do 00 1 (00-44)
-
-do_durum---->: DIJITAL OUTPUT DURUM BILGISI
-
-aidi-------->: ANALOG VE DIGITAL GIRIS VE DIGITAL CIKIS BILGISI. Ornek: aidi 1/0
-
-pwm--------->: PWM KOMUTU. Ornek: pwm 00 10000 1 (00-02)
-
-cls--------->: TERMINAL EKRANI TEMIZLE Ornek: cls
-
-reset------->: YAZILIMSAL RESET BUTONUNA BASILIR. Ornek: reset
-
-ver--------->: VERSIYON ve ID BILGISINI VERIR. Ornek: ver
-
-bip--------->: 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR. Ornek: bip 1 (1-6)
-
-beep-------->: KARTIN HOPARLORUNU KONTROL EDER. Ornek: beep on, beep off
+Komut|Açıklama|Örnek
+:----|:--------------------------:|:-----------------:|
+help|GOMULU SISTEM DOSYALARINI LISTELER| help
+do| DIJITAL OUTPUT KOMUTU|do 00 1 (00-44)
+do_durum|DIJITAL OUTPUT DURUM BILGISI
+aidi|ANALOG VE DIGITAL GIRIS VE DIGITAL CIKIS BILGISI|aidi 1/0
+pwm| PWM KOMUTU|pwm 00 10000 1 (00-02)
+cls| TERMINAL EKRANI TEMIZLE|cls
+reset| YAZILIMSAL RESET BUTONUNA BASILIR. |reset
+ver| VERSIYON ve ID BILGISINI VERIR|ver
+bip| 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR|bip 1 (1-6)
+beep| KARTIN HOPARLORUNU KONTROL EDER.|beep on, beep off
 
