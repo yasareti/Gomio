@@ -1,3 +1,5 @@
+![](https://www.mebmcugomsis.org/wp-content/uploads/2020/05/Gomiosplash.png)
+
 # Gomio
 
 Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını okuyabileceğiniz ve çıkışları sürebileceğiniz gömülü sistem yazılımıdır. <b>Mehmet Güverdik</b>'in geliştirdiği <b>USCO 01</b> yerli gömülü sistem protokolünü temel alır. 
@@ -59,6 +61,8 @@ Analog Giriş Durum|Dijital Giriş Durum|T:Sıcaklık,H:Nem|Encoderlar|Dijital �
 |:----|:-----|:--------|:--------|:--------|:--------|
 {:0920:1060:1140:1208:1268:1332:0000:0488|DI:00|T:28,H:52|D0: 0,D1:0|<0000000000>|Saniye:12}
 
+![](https://www.mebmcugomsis.org/wp-content/uploads/2020/05/UscoPaketYapisi.png)
+
 # Gömülü sistem komutları 
 
 Komut|Açıklama|Örnek
@@ -74,6 +78,7 @@ ver| VERSIYON ve ID BILGISINI VERIR|ver
 bip| 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR|bip 1 (1-6)
 beep| KARTIN HOPARLORUNU KONTROL EDER.|beep on, beep off
 
+![](https://www.mebmcugomsis.org/wp-content/uploads/2020/05/GomuluSistemKomutlari.png)
 
 ### Destek yada İletişim
 
