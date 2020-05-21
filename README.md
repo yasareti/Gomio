@@ -9,7 +9,7 @@ Gomio Arduino için geliştirilmiş giriş/çıkış prinlerinin durumlarını o
 #### v.0.9.0
 * İlk kişisel kullanım
 
-### Nasıl Kullanırım?
+### Gomio'yu Nasıl Kullanırım?
 #### Gömülü sistemi Arduinoya yükleme
 * Arduino kartınızı bilgisayarınıza bağlayınız.
 * Aygıt yöneticisinden arduinonuzun hangi comporta bağlı olduğunu öğreniniz.
