@@ -53,7 +53,7 @@ Delphi|ComPort1.WriteStr('do 03 1' + #13#10);|#13#10
 * Gömülü sistem komutlarından "aidi" komutu görsel arayüz üzerinden "aidi 1" işletildikten sonra Arayüz ile Gömülü sistem sürekli iletişime geçer. 
 * Arduino her saniyede dört kez içerisinde tüm giriş/çıkış durumlarının bulunduğu 103 baytlık bir paket yapısı gönderir.
 * Paket : {:0920:1060:1140:1208:1268:1332:0000:0488,DI:00,T: 28,H: 52,D0:    0,D1:    0,<0000000000>,Saniye:    12}
-* Arayüz paketi seriport üzerinden alarak istenilen bilgiyi içerisinden çekebilir. 
+* Arayüz yazılımı  seriport üzerinden gelen paket içerisinden istenilen bilgiyi (sensör bilgisi, giriş çıkış durumları, sıcaklık bilgisi gibi.) çekebilir.. 
 
 Analog|Dijital Giriş|T:Sıcaklık,H:Nem|Encoderlar|Dijital Çıkış Durum|Saniye|
 |:----|:-----|:--------|:--------|:--------|:--------|
