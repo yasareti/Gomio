@@ -73,3 +73,8 @@ reset| YAZILIMSAL RESET BUTONUNA BASILIR. |reset
 ver| VERSIYON ve ID BILGISINI VERIR|ver
 bip| 6 FARKLI BEEP SESI OLUSTURMAK ICIN KULLANILIR|bip 1 (1-6)
 beep| KARTIN HOPARLORUNU KONTROL EDER.|beep on, beep off
+
+
+### Destek yada İletişim
+
+Gömülü sistemle ilgili herhangi bir soru veya sorun olursa lütfen sadece Github üzerinden iletişime geçin.
