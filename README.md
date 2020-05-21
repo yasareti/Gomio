@@ -55,7 +55,7 @@ Delphi|ComPort1.WriteStr('do 03 1' + #13#10);|#13#10
 * Paket : {:0920:1060:1140:1208:1268:1332:0000:0488,DI:00,T: 28,H: 52,D0:    0,D1:    0,<0000000000>,Saniye:    12}
 * Arayüz yazılımı  seriport üzerinden gelen paket içerisinden istenilen bilgiyi (sensör bilgisi, giriş çıkış durumları, sıcaklık bilgisi gibi.) çekebilir.. 
 
-Analog|Dijital Giriş|T:Sıcaklık,H:Nem|Encoderlar|Dijital Çıkış Durum|Saniye|
+Analog Giriş Durumları|Dijital Giriş Durumları|T:Sıcaklık,H:Nem|Encoderlar|Dijital Çıkış Durumları|Saniye|
 |:----|:-----|:--------|:--------|:--------|:--------|
 {:0920:1060:1140:1208:1268:1332:0000:0488|DI:00|T:28,H:52|D0: 0,D1:0|<0000000000>|Saniye:12}
 
